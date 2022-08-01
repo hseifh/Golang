@@ -7,7 +7,7 @@ import (
 func main() {
 	fmt.Println("Hello World❕")
 
-	fmt.Println("Good morning❕")
+	fmt.Println("Good morning")
 
 	fmt.Println("Good afternoon")
 
@@ -17,4 +17,5 @@ func main() {
 	//num = 1
 	num := 2
 	fmt.Println(num)
+
 }
