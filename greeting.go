@@ -5,13 +5,8 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello World❕❕")
-
-	fmt.Println("Good morning")
-
-	fmt.Println("Good afternoon")
-
-	fmt.Println("Good evening")
+	//「go run greeting.go」で実行
+	fmt.Println("Hello World")
 
 	//var num int
 	//num = 1
