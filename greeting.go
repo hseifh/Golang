@@ -6,7 +6,7 @@ import (
 
 func main() {
 	//「go run greeting.go」で実行
-	fmt.Println("Hello World1")
+	fmt.Println("Hello World")
 	fmt.Println("コミット")
 
 	//var num int
