@@ -11,7 +11,7 @@ func main() {
 
 	//var num int
 	//num = 1
-	num := 2
+	num := 4
 	fmt.Println(num)
 
 }
